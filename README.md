@@ -226,6 +226,7 @@
 ## Resources
 
 - [Chainlink Playbook](https://github.com/maketz/chainlink-playbook)
+- [TheLinkPanda](https://thelinkpanda.com) - Independent research vault documenting verified institutional Chainlink adoption: 64 primary-sourced evidence entries covering Swift, DTCC, JPMorgan, and 8 central banks, plus an interactive adoption map.
 
 ---
 # Integrations 
